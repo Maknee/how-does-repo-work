@@ -38,14 +38,14 @@
 
 ### To look into
 
-[] Pytorch
-[] Trition
-[] vLLM
-[] LevelDB
-[] RocksDB
-[] Postgres
-[] Milvus
-[] Linux kernel
-[] NVIDIA kernel
+* Pytorch
+* Trition
+* vLLM
+* LevelDB
+* RocksDB
+* Postgres
+* Milvus
+* Linux kernel
+* NVIDIA kernel
 
 
