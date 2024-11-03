@@ -1,0 +1,8 @@
+[submodule "leveldb/leveldb1.1"]
+	path = leveldb/leveldb1.1
+	url = https://github.com/google/leveldb.git
+	branch = be9f061d2fd5e2d66ba17a70c135a153c584c8c1
+[submodule "leveldb/leveldb1.23"]
+	path = leveldb/leveldb1.23
+	url = https://github.com/google/leveldb.git
+	branch = 1.23
